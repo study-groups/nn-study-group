@@ -1,2 +1,2 @@
-# neuralnets-study-group
+# nn-study-group
 Resources for neural net study group
