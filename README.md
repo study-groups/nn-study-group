@@ -24,6 +24,12 @@ Resources for neural net study group
 ## Restricted Boltzmann Machines
 - [deep-learning-meets-physics](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15) by ARtem Oppermann.
 
+# CNN
+- [human-activity-recognition-cnn](https://aqibsaeed.github.io/2016-11-04-human-activity-recognition-cnn/)  One such application is human activity recognition (HAR) using data collected from smartphone’s accelerometer. There are several techniques proposed in the literature for HAR using machine learning.
+
+  - [Human Activity Recognition](https://github.com/healthDataScience/deep-learning-HAR) In this part of the repo, we discuss the human activity recognition problem using deep learning algorithms and compare the results with standard machine learning algorithms that use engineered features.
+
+
 ## GANs
 -[Skymind.ai GAN article](https://skymind.ai/wiki/generative-adversarial-network-gan)
 -[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661). By Ian Goodfelow. The paper that
