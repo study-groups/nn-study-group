@@ -5,8 +5,7 @@ Resources for neural net study group
 - [Neural Networks by David Kriesel](https://ia601504.us.archive.org/30/items/NeuralNetworks_201810/Neural%20Networks.pdf)
 
 ## Projects
- - [DNA Sequence detection with Genetically trained weights](https://github.com/christophersanchez/DataScience/tree/master/Thinkful/Unit6) by Chistopher Sanchez
- 
+
 ## Blogs and articles
 - [Nielsen's NN and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [All you need to know NN](https://towardsdatascience.com/nns-aynk-c34efe37f15a)
