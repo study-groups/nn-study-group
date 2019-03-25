@@ -46,6 +46,7 @@ started it all.
 
 
 ### Residual Neural Networks
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): Classic post by Andrej Kaparthy.
 - [Understand Deep Residual Networks](https://blog.waya.ai/deep-residual-learning-9610bb62c355). By Michael Dietz.
 - [ResNet for Image Classification](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624) by Prakash Jay.
 - [Over of ResNet and it's Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035) by
