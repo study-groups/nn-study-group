@@ -3,10 +3,10 @@ Resources for neural net study group
 
 ## Categories
 - [backprop](./bacprop/)
-- [Reoccurant NN](./rnn/)
-- [lstm](./lstm/)
+- [Recurrent NN](./rnn/)
 - [Convolution NN](./cnn/)
-- [GAN](./gan/)
+- [Restrcited Boltzmann Machine](./rbm')
+- [Generative Adversarial Networks](./gan/)
 
 ## Intro blogs and articles
 - [Nielsen's NN and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
